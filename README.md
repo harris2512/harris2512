@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Mohammed Harris</h1>
 <h3 align="center">A passionate app developer from India</h3>
 
-- 🔭 I’m currently working on **ReadyAssist**
+- 🔭 I’m currently working on **ReadyAssist** 
 
 - 💬 Ask me about **Android**
 
