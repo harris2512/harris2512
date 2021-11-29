@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ReadyAssist** 
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android & Development Cycle**
 
 - 📫 How to reach me **mohamed.haris@readyassist.in**
 
